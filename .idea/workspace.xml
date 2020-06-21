@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39f6162-11cd-4064-91c2-a1831ba45c60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/header.style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -82,7 +75,7 @@
       <updated>1592593832094</updated>
       <workItem from="1592593833195" duration="3290000" />
       <workItem from="1592665984626" duration="9993000" />
-      <workItem from="1592731105134" duration="5877000" />
+      <workItem from="1592731105134" duration="7765000" />
     </task>
     <task id="LOCAL-00001" summary="styling menu-item">
       <created>1592674943338</created>
@@ -98,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592682232730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add shop page, collection preview component and collection item component">
+      <created>1592739791511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592739791513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +121,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="styling menu-item" />
     <MESSAGE value="update menu-items to navigate withRouter HOC" />
-    <option name="LAST_COMMIT_MESSAGE" value="update menu-items to navigate withRouter HOC" />
+    <MESSAGE value="add shop page, collection preview component and collection item component" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shop page, collection preview component and collection item component" />
   </component>
 </project>
