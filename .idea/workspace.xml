@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39f6162-11cd-4064-91c2-a1831ba45c60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/cart-item/cart-item.style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/cart/cart.selector.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-dropdown/cart-dropdown.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/card.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/card.reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cart-icon/cart-icon.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +83,7 @@
       <workItem from="1592934445679" duration="600000" />
       <workItem from="1593010365839" duration="1711000" />
       <workItem from="1593071869472" duration="12356000" />
-      <workItem from="1593178969942" duration="11202000" />
+      <workItem from="1593178969942" duration="14051000" />
     </task>
     <task id="LOCAL-00001" summary="styling menu-item">
       <created>1592674943338</created>
@@ -168,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593182823419</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="created cart-item component and connected with cart dropdown">
+      <created>1593195793999</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593195793999</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +191,7 @@
     <MESSAGE value="firebase authenticated users" />
     <MESSAGE value="added redux" />
     <MESSAGE value="add cart-dropdown" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cart-dropdown" />
+    <MESSAGE value="created cart-item component and connected with cart dropdown" />
+    <option name="LAST_COMMIT_MESSAGE" value="created cart-item component and connected with cart dropdown" />
   </component>
 </project>
